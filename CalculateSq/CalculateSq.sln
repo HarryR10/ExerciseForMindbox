@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculateSq", "CalculateSq\CalculateSq.csproj", "{FA913DC3-D202-46EF-9307-D6FED4D377D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{A96E5FBF-BC2F-4AA5-BBAA-08D2CBDDA9C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA913DC3-D202-46EF-9307-D6FED4D377D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA913DC3-D202-46EF-9307-D6FED4D377D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA913DC3-D202-46EF-9307-D6FED4D377D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA913DC3-D202-46EF-9307-D6FED4D377D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96E5FBF-BC2F-4AA5-BBAA-08D2CBDDA9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96E5FBF-BC2F-4AA5-BBAA-08D2CBDDA9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96E5FBF-BC2F-4AA5-BBAA-08D2CBDDA9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96E5FBF-BC2F-4AA5-BBAA-08D2CBDDA9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
