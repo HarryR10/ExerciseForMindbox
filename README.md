@@ -1,0 +1,2 @@
+# ExerciseForMindbox
+Тестовое задание
